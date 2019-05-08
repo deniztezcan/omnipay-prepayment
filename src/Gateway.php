@@ -3,7 +3,7 @@
  * Gateway | src/Gateway.php.
  *
  * @author      Deniz Tezcan <howdy@deniztezcan.me>
- * @package		Omnipay-PrePayments
+ * @package		Omnipay-PrePayment
  * @since       v0.1
  */
 

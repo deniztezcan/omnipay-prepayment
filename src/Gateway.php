@@ -23,7 +23,8 @@ class Gateway extends AbstractGateway
 	public function getDefaultParameters()
     {
         return [
-            
+            'amount' => '',
+            'card'   => '',
         ];
     }
 
